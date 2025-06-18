@@ -2,7 +2,7 @@
 - 👀 I’m interested in Flutter App Development
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Embedded System
-- 📫 How to reach me ritiksaini6475@gmail.com
+- 📫 How to reach me chetan.165590@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
