@@ -10,34 +10,21 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
     name: Generate 3D Contribution Graph
+    runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: 1MZORO
-        with:
-          MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "username": "1MZORO",
-              "max_repos": 10,
-              "selectedBranch": "main",
-              "animation": true,
-              "antiAlias": true,
-              "isDebug": false,
-              "backgroundColor": "0d1117",
-              "strongColor": "00F7FF",
-              "lightColor": "7B2FBE"permissions:
-  contents: write
-            }
 
-      - name: Push to repo
-        uses: EndBug/add-and-commit@v7
+      - name: Commit files
+        uses: EndBug/add-and-commit@v9
         with:
-          branch: main
           add: "profile-3d-contrib"
+          message: "generated 3D contribution graph"
