@@ -17,8 +17,7 @@
 
 ```javascript
 const ZORO = {
-  name        : "Chetan",
-  alias       : "ZORO ⚔️",
+  name       : "ZORO ⚔️",
   location    : "India 🇮🇳",
   role        : "Flutter Developer",
   learning    : ["Backend Dev", "Cloud Computing", "System Design"],
@@ -125,18 +124,16 @@ const ZORO = {
 
 ## 💡 Zoro Facts
 
-<div align="center">
+<p align="center">
 
-```
-🎮  I game to reset. I code to evolve.
-⚔️  Zoro is my spirit animal — lost, but always arrives first.
-🌙  Most dangerous between 12 AM and 4 AM (peak coding hours).
-☕  Powered by: coffee + anime OSTs + sheer stubbornness.
-🧠  1% talent. 99% reading Stack Overflow at 3 AM.
-💀  My debugger has seen things it cannot unsee.
-```
+🎮 I game to reset. I code to evolve.<br>
+⚔️ Zoro is my spirit animal — lost, but always arrives first.<br>
+🌙 Most dangerous between 12 AM and 4 AM (peak coding hours).<br>
+☕ Powered by: coffee + anime OSTs + sheer stubbornness.<br>
+🧠 1% talent. 99% reading Stack Overflow at 3 AM.<br>
+💀 My debugger has seen things it cannot unsee.
 
-</div>
+</p>
 
 ---
 
