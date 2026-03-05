@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Z%20O%20R%20O%20%E2%9A%94%EF%B8%8F&fontSize=85&fontAlign=50&fontAlignY=45&color=0:0d1117,40:00F7FF,100:7B2FBE&stroke=00F7FF&strokeWidth=2.5&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="assets/zoro-banner.svg"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=18&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=850&lines=FLUTTER+DEVELOPER+%7C+BACKEND+LEARNER+%7C+CLOUD+EXPLORER;ANIME+WARRIOR+%7C+MIDNIGHT+CODER+%7C+CHAOS+BUILDER;NOTHING+HAPPENED." />
