@@ -5,6 +5,11 @@
 </p>
 
 ---
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=%24+Initializing+system...;%24+Access+Granted;%24+Welcome%2C+Zoro;%24+Loading+profile...)
+
+</div>
 
 <div align="center">
 
