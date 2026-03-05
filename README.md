@@ -77,7 +77,7 @@ const ZORO = {
 
 <div align="center">
 
-<img src="https://github.com/1MZORO/1MZORO/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/1MZORO/1MZORO/main/profile-3d-contrib/profile-night-rainbow.svg" />
 
 </div>
 
