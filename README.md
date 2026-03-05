@@ -1,79 +1,86 @@
-# 👋 Hey, I'm ZORO ⚔️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ZORO%20⚔️&fontAlign=50&fontAlignY=40&color=0:00F7FF,100:0077ff"/>
 
-<div align="center">
-
-### 🧑‍💻 Flutter Developer | Backend Explorer | Cloud Learner
-
-*"Code like a developer, train like a swordsman."*
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Chetan;Flutter+Developer;Backend+Learner;Cloud+Explorer;Anime+Lover+⚔️;Welcome+to+my+GitHub!" />
+</p>
 
 ---
 
-## 🏴‍☠️ About Me
+# 👋 About Me
 
-* 👀 Passionate about **Flutter App Development**
-* 🌱 Currently learning **Backend Development & Cloud Computing**
-* ⚡ Love building **mobile apps, experimenting with tech & gaming**
-* 🎮 Anime + Gaming enthusiast
-* 💡 Always trying to level up my developer skills
-
----
-
-## 🧰 Tech Stack
-
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-### 💻 Programming Languages
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### ⚙️ Backend (Learning)
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### ☁️ Cloud & Tools
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+* 👨‍💻 Flutter App Developer
+* 🌱 Currently learning **Backend & Cloud Computing**
+* 🎮 Gamer + Anime lover
+* ⚔️ Inspired by **Zoro mindset — train every day**
+* 🚀 Goal: Become a **Full Stack Mobile Developer**
 
 ---
 
-## 📊 GitHub Stats
+# 🧰 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,js,git,github,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1MZORO&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1MZORO&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MZORO&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MZORO&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🎮 Fun Zone
+# 🔥 GitHub Streak
 
-* ⚔️ Favorite Character: **Roronoa Zoro**
-* 🎮 Gamer Mode: **ON**
-* ☕ Fuel: **Coffee + Code**
-* 🎯 Goal: Become a **Top Mobile & Backend Developer**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1MZORO&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Contribution Graph
+
+[![Chetan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1MZORO\&theme=tokyo-night)](https://github.com/1MZORO)
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=1MZORO&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📫 Connect With Me
 
 📧 **Email:**
 [chetan.165590@gmail.com](mailto:chetan.165590@gmail.com)
 
 ---
 
-<div align="center">
+<p align="center">
+⚔️ *“A developer’s journey is like a swordsman’s training — endless improvement.”*
+</p>
 
-### ⚔️ "A developer's journey is like a swordsman's training — endless improvement."
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=120&section=footer"/>
