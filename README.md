@@ -23,7 +23,7 @@ const ZORO = {
 <br clear="both"/>
 
 <h2 align="center">🛠️ ARSENAL (Tech Stack)</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,go,firebase,nodejs,js,python,postgres,redis,docker,git,github,vscode,linux,figma&perline=6&theme=dark"/> </p>
-<h2 align="center">📊 BATTLE STATS</h2> <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1MZORO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1MZORO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9"/> </p> <p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=1MZORO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF"/> </p>
+<h2 align="center">📊 BATTLE STATS</h2> <p align="center"> </p> <p align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=1MZORO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF"/> </p>
 <h2 align="center">📈 CONTRIBUTION GRAPH</h2> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=1MZORO&bg_color=0d1117&color=00F7FF&line=0077ff&point=00F7FF&area=true&hide_border=true&custom_title=Zoro's%20Contribution%20Graph"/> </p>
 <h2 align="center">🐍 WATCH THE SNAKE EAT MY CONTRIBUTIONS</h2>
 
