@@ -144,7 +144,7 @@
     <rect class="bg" width="900" height="300" rx="15"/>
     <text class="title" x="450" y="120" text-anchor="middle">☠ PIRATE HUNTER ☠</text>
     <text class="subtitle" x="450" y="195" text-anchor="middle">RORONOA ZORO</text>
-    <text class="desc" x="450" y="230" text-anchor="middle">First Mate • Three Sword Style • King of Hell</text>
+    <text class="desc" x="450" y="230" text-anchor="middle">Vice Captain • Three Sword Style • King of Hell</text>
   </g>
 
   <!-- ===== BOTTOM HALF (splits downward-right) ===== -->
@@ -152,7 +152,7 @@
     <rect class="bg" width="900" height="300" rx="15"/>
     <text class="title" x="450" y="120" text-anchor="middle">☠ PIRATE HUNTER ☠</text>
     <text class="subtitle" x="450" y="195" text-anchor="middle">RORONOA ZORO</text>
-    <text class="desc" x="450" y="230" text-anchor="middle">First Mate • Three Sword Style • King of Hell</text>
+    <text class="desc" x="450" y="230" text-anchor="middle">Vice Captain • Three Sword Style • King of Hell</text>
   </g>
 
   <!-- ===== SLASH FLASH (wide glow behind slash) ===== -->
