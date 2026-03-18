@@ -15,13 +15,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           USERNAME: 1MZORO
+          MAX_REPOS: "100"
 
       - name: Commit files
         uses: EndBug/add-and-commit@v9
