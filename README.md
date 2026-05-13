@@ -109,24 +109,6 @@ const ZORO = {
 
 </div>
 
----
-
-## 🎯 2025 Training Arc
-
-<div align="center">
-
-| Quest | Progress | Status |
-|-------|----------|--------|
-| ⚔️ Master Flutter & Dart | `████████████░░░░░░░` 60% | 🔥 Active |
-| 🌩️ Backend — Node.js + Go | `███████░░░░░░░░░░░░` 35% | 📖 Learning |
-| ☁️ Cloud & Docker | `████░░░░░░░░░░░░░░░` 20% | 🌱 Starting |
-| 🚀 Ship 5 Real Projects | `██████████████░░░░░` 70% | ⚡ Almost |
-| 🌍 Open Source Contributions | `████░░░░░░░░░░░░░░░` 20% | 🎯 Soon |
-
-</div>
-
----
-
 ## 💡 Zoro Facts
 
 <div align="center">
