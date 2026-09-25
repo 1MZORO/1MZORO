@@ -61,11 +61,11 @@ const ZORO = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1MZORO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api?username=1MZORO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 &nbsp;&nbsp;
 
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1MZORO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=1MZORO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -87,24 +87,14 @@ const ZORO = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1MZORO&bg_color=0d1117&color=00F7FF&line=7B2FBE&point=00F7FF&area=true&area_color=00F7FF&hide_border=true&custom_title=Zoro's%20Battlefield%20⚔️"/>
-
-</div>
-
----
-
 ## 🐍 Snake Eating My Commits
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1MZORO/1MZORO/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1MZORO/1MZORO/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/1MZORO/1MZORO/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
